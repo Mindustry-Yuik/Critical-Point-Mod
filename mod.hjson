@@ -1,14 +1,14 @@
 #the mod name as displayed in-game
-displayName: "cp"
+displayName: "Critical Point"
 
 #the internal name of your mod
-name: "Critical Point"
+name: "cp"
 
 #your name
 author: "Yuik"
 
 #the fully qualified main class of the mod
-main: "cp.Example"
+main: "cp.cpmain"
 
 #the mod description as seen in the mod dialog
 description: "A Mindustry Java mod template."
